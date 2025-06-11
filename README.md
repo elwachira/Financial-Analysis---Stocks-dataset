@@ -1,4 +1,4 @@
-# Financial-Analysis - Stocks_Dataset
+# Financial_Analysis_Stocks_Dataset
 
 ## Exploratory Data Analysis with Python.
 
